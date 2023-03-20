@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829172397935",
+    "project_id": "luminous-2ce49",
+    "storage_bucket": "luminous-2ce49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829172397935:android:020b58030528ee35e61a9a",
+        "android_client_info": {
+          "package_name": "com.example.nasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829172397935-ci779fj20v48um8km7vinf6bei12m1dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhIhYZIJpECp6d_-s-UuWlyZ7ygX5P3E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829172397935-ci779fj20v48um8km7vinf6bei12m1dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
